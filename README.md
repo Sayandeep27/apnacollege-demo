@@ -1,3 +1,3 @@
 This is my first git repository
 
-Author: Sayandeep Sarkar
+Author: Sayandeep Sarkar (Jadavpur University)
